@@ -30,7 +30,7 @@ The design was fully coded in Verilog, tested with QuestaSim, and synthesized/im
 ## 🖥️ Simulation & Results
 - [PDF Report](https://github.com/Khaled15102002/DSP48A1/blob/main/_Khaled_Ali_Project1.pdf)
 
-## Steps 
+## 📌 Steps 
 - [PDF Report DSP48A1](https://github.com/Khaled15102002/DSP48A1/blob/main/DSP48A1.pdf)
 - [PDF Report TB_Description](https://github.com/Khaled15102002/DSP48A1/blob/main/DSP_TB_Description.pdf)
  
